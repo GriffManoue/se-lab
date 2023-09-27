@@ -86,6 +86,7 @@ public class GT4500 implements SpaceShip {
         }
 
         //branch A
+        //branch B
 
         if (! secondaryTorpedoStore.isEmpty()) {
           firingSuccess = secondaryTorpedoStore.fire(1);
